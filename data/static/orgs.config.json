@@ -1,0 +1,131 @@
+[{
+  "name": "GAIN Capital",
+  "ticker": "gain-capital",
+  "jobboard": "https://www.gaincapital.com/careers.shtml"
+},  {
+  "name": "Standard Chartered Bank",
+  "ticker": "standardchartered"
+}, {
+  "name": "SIX",
+  "ticker": "sixgroup",
+  "jobboard": "https://www.gaincapital.com/careers.shtml"
+}, {
+  "name": "Danske Bank",
+  "ticker": "danskebank"
+} ,{
+  "name": "Metrosoft",
+  "ticker": "metrosoft"
+},{
+  "name": "ABN AMRO Bank N.V.",
+  "ticker": "abn-amro"
+},{
+  "name": "Franklin Templeton Investments",
+  "ticker": "franklin-templeton-investments"
+}, {
+  "name": "Excelian",
+  "ticker": "Excelian"
+}, {
+  "name": "Bank Millennium",
+  "ticker": "bank-millennium"
+}, {
+  "name": "Bank Pekao",
+  "ticker": "bank-pekao"
+}, {
+  "name": "Bank BGZ BNP Paribas S.A.",
+  "ticker": "bank-bgz"
+}, {
+  "name": "BNP Paribas",
+  "ticker": "bnp-paribas"
+}, {
+  "name": "PKO Bank Polski",
+  "ticker": "pko-bp"
+}, {
+  "name": "Alior Bank S.A.",
+  "ticker": "alior-bank-s-a-"
+}, {
+  "name": "Saxo Bank",
+  "ticker": "saxo-bank"
+}, {
+  "name": "Société Générale",
+  "ticker": "societe-generale"
+}, {
+  "name": "mBank S.A.",
+  "ticker": "mbank-s-a"
+}, {
+  "name": "Revolut",
+  "ticker": "revolut",
+  "jobboard": "https://www.revolut.com/careers/all"
+}, {
+  "name": "IG",
+  "ticker": "igcom",
+  "jobboard": "https://ig.wd3.myworkdayjobs.com/EXT_IG/1/refreshFacet/318c8bb6f553100021d223d9780d30be"
+}, {
+  "name": "Bloomberg LP",
+  "ticker": "bloomberg-lp"
+}, {
+  "name": "HSBC",
+  "ticker": "hsbc",
+  "jobboard": "https://www.pracuj.pl/praca/hsbc%20service%20delivery%20(polska);kw"
+}, {
+  "name": "UBS",
+  "ticker": "ubs"
+}, {
+  "name": "Credit Suisse",
+  "ticker": "credit-suisse"
+}, {
+  "name": "Citi",
+  "ticker": "citi"
+}, {
+  "name": "Euroclear",
+  "ticker": "euroclear",
+  "jobobard": "https://euroclear.taleo.net/careersection/ext/jobsearch.ftl#%20"
+}, {
+  "name": "Eurobank",
+  "ticker": "eurobank-poland"
+},{
+  "name": "State Street",
+  "ticker": "state-street"
+}, {
+  "name": "Brown Brothers Harriman",
+  "ticker": "brown-brothers-harriman"
+}, {
+  "name": "Morgan Stanley",
+  "ticker": "morgan-stanley"
+}, {
+  "name": "JPMorgan Chase & Co.",
+  "ticker": "jpmorgan-chase"
+}, {
+  "name": "BNY Mellon",
+  "ticker": "bny-mellon"
+}, {
+  "name": "Goldman Sachs",
+  "ticker": "goldman-sachs"
+}, {
+  "name": "Nordea",
+  "ticker": "nordea"
+}, {
+  "name": "Thomson Reuters",
+  "ticker": "thomson-reuters"
+}, {
+  "name": "HedgeServ",
+  "ticker": "hedgeserv"
+}, {
+  "name": "Chatham Financial",
+  "ticker": "chatham-financial"
+}, {
+  "name": "SILENT EIGHT PTE. LTD.",
+  "ticker": "silenteight",
+  "jobboard": "https://silenteight.com/careers/"
+}, {
+  "name": "AlgoTrader",
+  "ticker": "algotrader-gmbh"
+}, {
+  "name": "Donnelley Financial Solutions (DFIN)",
+  "ticker": "dfinsolutions"
+}, {
+  "name": "Groupe Crédit Agricole",
+  "ticker": "credit-agricole"
+}, {
+  "name": "Idea Bank S.A. (Polska)",
+  "ticker": "idea-bank-s-a-"
+}]
