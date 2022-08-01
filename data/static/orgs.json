@@ -1,0 +1,200 @@
+[{
+  "name": "StoneX Group Inc.",
+  "tickers": ["stonex-group-inc"],
+  "origin": "USA"
+},  {
+  "name": "GAIN Capital",
+  "tickers": ["gain-capital", "gain-capital-poland"],
+  "origin": "USA",
+  "jobboard": "https://www.gaincapital.com/careers.shtml"
+},  {
+  "name": "Standard Chartered Bank",
+  "tickers": ["standardchartered"],
+  "origin": "UK"
+}, {
+  "name": "SIX",
+  "tickers": ["sixgroup"],
+  "jobboard": "https://www.gaincapital.com/careers.shtml",
+  "origin": "CH"
+}, {
+  "name": "Danske Bank",
+  "tickers": ["danskebank", "danske-bank-uk", "danske-bank-corporates-and-institutions"],
+  "origin": "DK"
+} ,{
+  "name": "Metrosoft",
+  "tickers": ["metrosoft"],
+  "origin": "USA"
+},{
+  "name": "ABN AMRO Bank N.V.",
+  "tickers": ["abn-amro"],
+  "origin": "NL"
+},{
+  "name": "Franklin Templeton Investments",
+  "tickers": ["franklin-templeton-investments", "franklin-templeton", "franklintempletonindia"],
+  "origin": "USA"
+}, {
+  "name": "Excelian",
+  "tickers": ["Excelian"],
+  "origin": "CH"
+}, {
+  "name": "Bank Millennium",
+  "tickers": ["bank-millennium"],
+  "origin": "PL"
+}, {
+  "name": "Bank Pekao",
+  "tickers": ["bank-pekao", "pekao-bank-hipoteczny-s-a-"],
+  "origin": "PL"
+}, {
+  "name": "BNP Paribas",
+  "tickers": ["bnp-paribas", "bank-bnp-paribas"],
+  "origin": "FR"
+}, {
+  "name": "PKO Bank Polski",
+  "tickers": ["pko-bp", "pko-bank-hipoteczny", "pte-bankowy-sa"],
+  "origin": "PL"
+}, {
+  "name": "Alior Bank S.A.",
+  "tickers": ["alior-bank-s-a-"],
+  "origin": "PL"
+}, {
+  "name": "Saxo Bank",
+  "tickers": ["saxo-bank", "saxo-bank-switzerland", "saxo-bank-middle-east"],
+  "origin": "DK"
+}, {
+  "name": "Société Générale",
+  "tickers": ["societe-generale", "sg-abs", "societe-generale-assurances"],
+  "origin": "FR"
+}, {
+  "name": "mBank S.A.",
+  "tickers": ["mbank-s-a"],
+  "origin": "PL"
+}, {
+  "name": "Revolut",
+  "tickers": ["revolut"],
+  "jobboard": "https://www.revolut.com/careers/all",
+  "origin": "UK"
+}, {
+  "name": "IG",
+  "tickers": ["igcom"],
+  "jobboard": "https://ig.wd3.myworkdayjobs.com/EXT_IG/1/refreshFacet/318c8bb6f553100021d223d9780d30be",
+  "origin": "UK"
+}, {
+  "name": "Bloomberg LP",
+  "tickers": ["bloomberg-lp"],
+  "origin": "USA"
+}, {
+  "name": "HSBC",
+  "tickers": ["hsbc"],
+  "jobboard": "https://www.pracuj.pl/praca/hsbc%20service%20delivery%20(polska);kw",
+  "origin": "UK"
+}, {
+  "name": "UBS",
+  "tickers": ["ubs"],
+  "origin": "CH"
+}, {
+  "name": "Credit Suisse",
+  "tickers": ["credit-suisse"],
+  "origin": "CH"
+}, {
+  "name": "Citi",
+  "tickers": ["citi", "citi-india"],
+  "origin": "USA"
+}, {
+  "name": "Euroclear",
+  "tickers": ["euroclear", "euroclear-finland", "euroclear-bank"],
+  "jobobard": "https://euroclear.taleo.net/careersection/ext/jobsearch.ftl#%20",
+  "origin": "BE"
+}, {
+  "name": "Eurobank",
+  "tickers": ["eurobank-poland"],
+  "origin": "GR"
+},{
+  "name": "State Street",
+  "tickers": ["state-street"],
+  "origin": "USA"
+}, {
+  "name": "Brown Brothers Harriman",
+  "tickers": ["brown-brothers-harriman"],
+  "origin": "USA"
+}, {
+  "name": "Morgan Stanley",
+  "tickers": ["morgan-stanley"],
+  "origin": "USA"
+}, {
+  "name": "JPMorgan Chase & Co.",
+  "tickers": ["jpmorgan-chase"],
+  "origin": "USA"
+}, {
+  "name": "BNY Mellon",
+  "tickers": ["bny-mellon"],
+  "origin": "USA"
+}, {
+  "name": "Goldman Sachs",
+  "tickers": ["goldman-sachs"],
+  "origin": "USA"
+}, {
+  "name": "Nordea",
+  "tickers": ["nordea"],
+  "origin": "FI"
+}, {
+  "name": "Thomson Reuters",
+  "tickers": ["thomson-reuters"],
+  "origin": "CA"
+}, {
+  "name": "HedgeServ",
+  "tickers": ["hedgeserv"],
+  "origin": "USA"
+}, {
+  "name": "Chatham Financial",
+  "tickers": ["chatham-financial"],
+  "origin": "USA"
+}, {
+  "name": "SILENT EIGHT PTE. LTD.",
+  "tickers": ["silenteight"],
+  "jobboard": "https://silenteight.com/careers/",
+  "origin": "SG"
+}, {
+  "name": "AlgoTrader",
+  "tickers": ["algotrader-gmbh"],
+  "origin": "CH"
+}, {
+  "name": "Donnelley Financial Solutions (DFIN)",
+  "tickers": ["dfinsolutions"],
+  "origin": "USA"
+}, {
+  "name": "Groupe Crédit Agricole",
+  "tickers": ["credit-agricole", "credit-agricole-cib"],
+  "origin": "FR"
+}, {
+  "name": "Idea Bank S.A. (Polska)",
+  "tickers": ["idea-bank-s-a-", "idea-bank"],
+  "origin": "PL"
+}, {
+  "name": "Oanda",
+  "tickers": ["oanda"],
+  "origin": "USA"
+}, {
+  "name": "NatWest",
+  "tickers": ["natwest-group", "natwest", "natwest-markets"],
+  "origin": "UK"
+}, {
+  "name": "BlockFi",
+  "tickers": ["blockfi"],
+  "origin": "USA"
+}, {
+  "name": "Aion Bank",
+  "tickers": ["aion-bank"],
+  "origin": "BE"
+}, { "name": "Point72",
+  "tickers": ["point72-asset-management-l-p-"],
+  "origin": "USA"
+}, { "name": "Bitpanda",
+  "tickers": ["bitpanda"],
+  "origin": "AT"
+}, { "name": "Backbase",
+  "tickers": ["backbase"],
+  "origin": "NL"
+}, { "name": "Kyriba",
+  "tickers": ["kyriba"],
+  "origin": "USA"
+}]

@@ -1,0 +1,8 @@
+1. connection to linkedin and grab total employees per company -> done
+2. grab employees per company per main city in poland -> done
+3. grab employees per company per by activity and by location -> done
+4. fix storage to be able to store month by month
+5. produce report, type of employment by city overall with top 3 employers
+6. allow to observe trend over time
+7. add jobs for linkedin
+8. categorise jobs into the same categories
